@@ -7,3 +7,4 @@ pydantic
 passlib[bcrypt]
 pytz
 pydantic[email]
+psycopg2
